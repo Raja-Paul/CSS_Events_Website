@@ -1,7 +1,7 @@
 {
   "name": "css_events_website",
   "version": "0.1.0",
-  "homepage": "https://Raja-Paul.github.io/css_events_website",
+  "homepage": "https://Raja-Paul.github.io/CSS_Events_Website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
